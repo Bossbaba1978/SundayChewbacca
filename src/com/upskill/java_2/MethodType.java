@@ -3,7 +3,7 @@ package com.upskill.java_2;
 public class  MethodType {
 	
 
-	public static int hourlyIncome = 65;
+	public static int hourlyIncome = 75;
 	
 
 	public static void main(String[] args) {

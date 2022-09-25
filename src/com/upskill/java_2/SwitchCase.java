@@ -2,7 +2,7 @@ package com.upskill.java_2;
 
 public class SwitchCase {
 	
-	public static int day = 3;
+	public static int day = 4;
 
 	public static void main(String[] args) {
 		weekday();// TODO Auto-generated method stub
