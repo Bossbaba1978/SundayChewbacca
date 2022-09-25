@@ -8,13 +8,13 @@ public class Constructor {
 		studentName = name;
 		studentAge = age;
 	}
-	
+	// test
 	
 	
 	
 	public static void main(String[] args) {
 
-		Constructor obj = new Constructor("Ali",25);
+		Constructor obj = new Constructor("Ali",45);
 		System.out.println(obj.studentName);
 		System.out.println(obj.studentAge);
 
