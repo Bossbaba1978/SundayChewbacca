@@ -1,7 +1,7 @@
 package com.upskill.java_2;
 
 public class IfElseStatement {
-	public static int age =  105;
+	public static int age =  110;
 	
 	
 
